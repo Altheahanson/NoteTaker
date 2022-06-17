@@ -1,33 +1,13 @@
 [
+    
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "id": "eecc",
+        "title": "checking the id",
+        "text": "is it working"
     },
     {
-        "title": "lets try",
-        "text": "tryomg"
-    },
-    {
-        "title": "lets try",
-        "text": "tryomg"
-    },
-    {
-        "title": "Baby shark",
-        "text": "bite me"
-    },
-    {
-        "title": "Althea",
-        "text": "hey",
-        "note_id": "da7c"
-    },
-    {
-        "title": "Althea",
-        "text": "hey",
-        "note_id": "6922"
-    },
-    {
-        "title": "Nelson",
-        "text": "sdfsf",
-        "id": "388e"
+        "id": "0196",
+        "title": "new note",
+        "text": "does it appear"
     }
 ]
