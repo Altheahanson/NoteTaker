@@ -24,14 +24,15 @@ Note Taker that can be used to write and save notes. This application will use a
 Follow these steps to install this project on your local machine.
 
 - Open Bash editor
-- mkdir nodeproject
-- cd nodeproject
+- mkdir nodeTaker
+- cd nodeTaker
 - git clone https://github.com/Altheahanson/NoteTaker.git
 - npm install
 
 ## Usage
 After cloning this repository...
-Open bash terminal - npm start
+Production Mode: Open bash terminal - npm start
+Developer Mode: Open bash terminal - npm run dev
 
 ## Application
 
@@ -39,8 +40,8 @@ Link to Deployed Application:
 https://powerful-thicket-42630.herokuapp.com/notes
 
 ## Images
-- ![HMTL Page](./assets/images/ .png)
-- ![TEAMPROFILE Generator](./assets/images/ .gif)
+- ![NoteTaker Page](./public/assets/images/noteTaker.png)
+
 
 
 ## Tests
