@@ -35,14 +35,13 @@ Open bash terminal - npm start
 
 ## Application
 
-Link to Deployed Application: none
+Link to Deployed Application: 
+https://powerful-thicket-42630.herokuapp.com/notes
 
 ## Images
 - ![HMTL Page](./assets/images/ .png)
 - ![TEAMPROFILE Generator](./assets/images/ .gif)
 
-## Full Video
--  
 
 ## Tests
 Email Me
